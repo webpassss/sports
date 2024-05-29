@@ -1,0 +1,113 @@
+body{
+    background-color: #555595d9;;
+}
+
+.base{
+    margin: 3% 4%;
+    background: linear-gradient(128deg, #060a4f, #720909f2);
+}
+
+.navbar{
+    width: 13%;
+    height: 200vh;
+}
+
+.navleft img{
+    width: 39%;
+    height: 47px;
+    margin: 33px 45px;
+}
+
+.navleft ul{
+    margin: 24px 3px;
+    list-style: none;
+    text-transform: capitalize;
+}
+
+.navimage ul{
+    padding: 11px 0px;
+}
+
+.navleft ul li{
+    padding-bottom: 27px;
+}
+
+.navleft ul li a{
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    padding-bottom: 33px;
+    font-size: small;
+}
+
+.navimage img{
+    width: 13%;
+    padding: 10px 10px;
+    background: linear-gradient(45deg, #a21681c7, #2443dec4);
+    border-radius: 32px;
+}
+
+.sec{
+    margin: -56% 26%;
+}
+
+.sec{
+    color: white;
+    margin-top: -894px;
+    margin-left: 25%;
+    margin-right: 7%;
+}
+
+.box1{
+    margin-right: 65%;
+}
+
+.box1 h1{
+    text-transform: uppercase;
+    font-family: cursive;
+}
+
+.box1 p{
+    font-size: small;
+    opacity: 25%;
+}
+
+.box1 button{
+    margin-top: 25px;
+    padding: 13px 60px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    background: linear-gradient(45deg, #e21541bf, #270808b3);
+    color: white;
+}
+
+.shoes1{
+    margin: -27% 15%;
+    position: absolute;
+    width: 32%;
+}
+
+.row img{
+    padding: 29% 0;
+    background: linear-gradient(397deg, #ce1414, #071454bf);
+    border-radius: 42px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.row{
+    display: grid;
+    margin-left: 52%;
+}
+
+.box{
+    margin-left: 43%;
+}
+
+.shoedown{
+    width: 43%;
+    position: absolute;
+    margin-top: -33%;
+    margin-left: 22%;
+}
+
